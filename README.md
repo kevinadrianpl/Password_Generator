@@ -3,7 +3,7 @@
 ### Maintaining strong passwords is one of the most important aspects of cybersecurity. 
 
 ## Basic
-`password_generatorpy`
+`password_generator.py`
 
 This is a basic generator written in Python to generate random passwords which uses smple libraries such as 'string' and 'random'
 The main outcome of this code is to learn the basics of python while doing something related to the security field. 
