@@ -12,4 +12,3 @@ The main outcome of this code is to learn the basics of python while doing somet
 `gui_password_generator.py`
 
 This is a password generator using python functions to create a generator with a user interface. This uses libraries such as Tkinter and pyperclip.
----
