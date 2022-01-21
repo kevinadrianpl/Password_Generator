@@ -2,8 +2,6 @@
 
 ### Maintaining strong passwords is one of the most important aspects of cybersecurity. 
 
----
-
 ## Basic
 `basic_password_generator.py`
 
