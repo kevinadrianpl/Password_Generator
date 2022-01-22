@@ -6,7 +6,7 @@ This is a simple application that can randomly generate passwords with a combina
 ### Basic Generator:
 `password_generator.py`
 
-This is a basic generator written in Python to generate random passwords which uses smple libraries such as 'string' and 'random'
+This is a basic generator written in Python to generate random passwords which uses simple libraries such as 'string' and 'random'
 The main outcome of this code is to learn the basics of python while doing something related to the security field. 
 
 ### Generator with a GUI:
